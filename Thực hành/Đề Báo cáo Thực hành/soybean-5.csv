@@ -1,0 +1,10 @@
+same-lst-yr;whole-field;pot-severe;fungicide;dna;absent;yes;absent;tan;absent;present
+same-lst-yr;whole-field;pot-severe;fungicide;dna;absent;no;absent;tan;absent;present
+same-lst-yr;upper-areas;pot-severe;none;dna;absent;yes;absent;tan;absent;present
+same-lst-sev-yrs;whole-field;pot-severe;fungicide;dna;absent;yes;absent;tan;absent;present
+same-lst-yr;whole-field;pot-severe;fungicide;dna;absent;yes;absent;tan;absent;present
+same-lst-sev-yrs;whole-field;pot-severe;fungicide;dna;absent;yes;absent;tan;absent;present
+diff-lst-year;upper-areas;pot-severe;none;dna;absent;no;absent;tan;absent;present
+same-lst-sev-yrs;low-areas;severe;none;dna;absent;yes;below-soil;brown;absent;absent
+diff-lst-year;low-areas;pot-severe;none;dna;absent;yes;below-soil;brown;absent;absent
+same-lst-two-yrs;low-areas;pot-severe;none;dna;absent;yes;below-soil;brown;absent;absent
